@@ -1,0 +1,15 @@
+C:\Users\dani\Desktop\full_stoke\bin\Debug\net6.0\full_stoke.exe
+C:\Users\dani\Desktop\full_stoke\bin\Debug\net6.0\full_stoke.deps.json
+C:\Users\dani\Desktop\full_stoke\bin\Debug\net6.0\full_stoke.runtimeconfig.json
+C:\Users\dani\Desktop\full_stoke\bin\Debug\net6.0\full_stoke.dll
+C:\Users\dani\Desktop\full_stoke\bin\Debug\net6.0\full_stoke.pdb
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\full_stoke.csproj.AssemblyReference.cache
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\full_stoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\full_stoke.AssemblyInfoInputs.cache
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\full_stoke.AssemblyInfo.cs
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\full_stoke.csproj.CoreCompileInputs.cache
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\full_stoke.dll
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\refint\full_stoke.dll
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\full_stoke.pdb
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\full_stoke.genruntimeconfig.cache
+C:\Users\dani\Desktop\full_stoke\obj\Debug\net6.0\ref\full_stoke.dll

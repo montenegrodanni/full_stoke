@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dani\\Desktop\\full_stoke\\full_stoke\\full_stoke.csproj": {}
+    "C:\\Users\\dani\\Desktop\\full_stoke\\full_stoke.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dani\\Desktop\\full_stoke\\full_stoke\\full_stoke.csproj": {
+    "C:\\Users\\dani\\Desktop\\full_stoke\\full_stoke.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dani\\Desktop\\full_stoke\\full_stoke\\full_stoke.csproj",
+        "projectUniqueName": "C:\\Users\\dani\\Desktop\\full_stoke\\full_stoke.csproj",
         "projectName": "full_stoke",
-        "projectPath": "C:\\Users\\dani\\Desktop\\full_stoke\\full_stoke\\full_stoke.csproj",
+        "projectPath": "C:\\Users\\dani\\Desktop\\full_stoke\\full_stoke.csproj",
         "packagesPath": "C:\\Users\\dani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dani\\Desktop\\full_stoke\\full_stoke\\obj\\",
+        "outputPath": "C:\\Users\\dani\\Desktop\\full_stoke\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dani\\AppData\\Roaming\\NuGet\\NuGet.Config",
